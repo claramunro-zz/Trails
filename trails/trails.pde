@@ -47,9 +47,9 @@ void setup()
 //  mov[3] = new Movie(this, "circle4.mp4");
 //  mov[4] = new Movie(this, "circle5.mp4");
 //  mov[5] = new Movie(this, "vid.mp4");
-  mov[0] = new Movie(this, "vid2.mp4");
-  mov[1] = new Movie(this, "vid3.mp4");
-  mov[2] = new Movie(this, "vid4.avi");
+  mov[0] = new Movie(this, "color-fade.mp4");
+//  mov[1] = new Movie(this, "vid3.mp4");
+//  mov[2] = new Movie(this, "vid4.avi");
   
   mov[iterator].loop();
 }
