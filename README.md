@@ -5,6 +5,8 @@ Trails is an interactive canvas where you are the paintbrush. Trails uses Proces
 
 [![Image from Gyazo](https://i.gyazo.com/a3f51062551c9b55ed1e24aab5ed7037.gif)](https://gyazo.com/a3f51062551c9b55ed1e24aab5ed7037)
 
+[![Image from Gyazo](https://i.gyazo.com/ac41524d7595b6b820a135c704445ebe.gif)](https://gyazo.com/ac41524d7595b6b820a135c704445ebe)
+
 <table>
   <td><img src="trails1.jpeg" /></td>
   <td><img style="height: 100%; width: 100%" src="trails2.jpeg" /></td>  
